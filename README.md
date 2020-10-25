@@ -33,9 +33,14 @@
  ![](images/Reading_scores_by_grade.png)
  
  - **How replacing 9th grade scores affected Scores by School Spending**
-    - Thomas Highschool with its $638 per student budget, landed in the $630-$644 spending bin. The spending bins categorization took into account average math and reading scores, the percentage passing math and reading, and overall passing percentage. With Thomas Highschool % Passing Math increasing from 66.911315% to 93.185690% and % Passing Reading increasing from  69.663609% to a passing percentage of 97.018739%, the overall Passing percentage thus increased exponentially from 65.076453% to 90.630324%. The results of these increased passing percentages reflect in the Scores by school spending image below as the exclusion of the 9th grade scores result in the improvement of the spending scores of $630-$644 spending bin that Thomas High School resides in. ![](images/Scores_and_Spending.png)
+    - Thomas Highschool with its $638 per student budget, landed in the $630-$644 spending bin. The spending bins categorization took into account average math and reading scores, the percentage passing math and reading, and overall passing percentage. With Thomas Highschool % Passing Math increasing from 66.911315% to 93.185690% and % Passing Reading increasing from  69.663609% to a passing percentage of 97.018739%, the overall Passing percentage thus increased exponentially from 65.076453% to 90.630324%. The results of these increased passing percentages reflect in the Scores by school spending image below as the previous % passing Math at 67, % passing reading at 77, and % overall passing at 56 are updated to         % passing Math at 73, % passing reading at 84, and % overall passing at 63.  
+ ![](images/Scores_and_Spending.png)
 
 
  - **How replacing 9th grade scores affected Scores by School Size**
-    - Thomas High School with its 1635 students was labeled as being a Medium sized school which is categorized as High Schools with 1000-2000 students. The removal of the 9th grade scores resulted in an increase of the % of scores and overall passing by school size in the Medium Sized category as demonstrated by the image below. % Passing Math at 94, % Passing  
+    - Thomas High School with its 1635 students was labeled as being a Medium sized school which is categorized as High Schools with 1000-2000 students. The removal of the 9th grade scores resulted in an increase of the % of scores and overall passing by school size in the Medium Sized category as before the % passing by math was 88, % passing by reading was 91, and % overall passing was 85. The image below demonstrates the image increase upon the update and removal of the 9th grade scores.  
 ![](images/scores_by_school_size.png)
+
+- **How replacing 9th grade scores affected Scores by School Type**
+    - Thomas High School with its 1635 students was labeled as being a Medium sized school which is categorized as High Schools with 1000-2000 students. The removal of the 9th grade scores resulted in an increase of the % of scores and overall passing by school size in the Medium Sized category as demonstrated by the image below. 
+    
