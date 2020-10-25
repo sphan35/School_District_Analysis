@@ -43,4 +43,10 @@
 
 - **How replacing 9th grade scores affected Scores by School Type**
     - Thomas High School was categorized as being a charter school under school type. The removal of the 9th grade scores resulted in an increase of the percentages of reading and math scores. The scores by school type of being a charter were initially at % passing math at 90, % passing reading at 93, and       % overall passing at 87. Upon the removal of the 9th grade scores from Thomas High School the % passing math went up to 94, % passing reading increased to 97, and % overall passing increased to 90. The image below shows the updated and improved scores. ![](images/Scores_by_school_charter.png)
-    
+
+## Summary
+  - Upon finishing the School District Analysis, with all the updates of code and data summaries, four major changes can be deduced from this project and the changes that occured upon the cleaning and replacing of Thomas High School 9th grade students math and reading scores.
+    1. The passing percentage of Thomas High School's math and reading scores, from students grades 10th through 12th, vastly improved upon the exclusion of 9th grade math and reading scores. 
+    2. There is a positive corellation between the percent passing math and reading to overall passing percentage, as overall passing percentage is the average of percent passing math and reading. However, an increase to those three categories also carried over to the scores by school spending per student, scores by school size, and scores by school type. 
+    3. Thomas High School 9th grade math and reading scores were successfully replaced and cleaned by using the imported numpy module. Implementing np.nan code into the 9th grade reading and math scores resulted in the the necessary NaN output on all reading and math scores for Thomas High School 9th graders. 
+    4. Successfully excluding Thomas High School 9th graders' reading and math scores allowed for the analysis to carry on and be conducted under the context of determining passing percentages and overall passing for the remaining 10th through 12th graders at Thomas Highschool.
