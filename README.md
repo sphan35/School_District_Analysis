@@ -38,9 +38,9 @@
 
 
  - **How replacing 9th grade scores affected Scores by School Size**
-    - Thomas High School with its 1635 students was labeled as being a Medium sized school which is categorized as High Schools with 1000-2000 students. The removal of the 9th grade scores resulted in an increase of the % of scores and overall passing by school size in the Medium Sized category as before the % passing by math was 88, % passing by reading was 91, and % overall passing was 85. The image below demonstrates the image increase upon the update and removal of the 9th grade scores.  
+    - Thomas High School with its 1635 students was labeled as being a Medium sized school which is categorized as High Schools with 1000-2000 students. The removal of the 9th grade scores resulted in an increase of the percentages of reading and math scores and overall passing by school size in the Medium Sized category as before the % passing by math was 88, % passing by reading was 91, and % overall passing was 85. The image below demonstrates the image increase upon the update and removal of the 9th grade scores.  
 ![](images/scores_by_school_size.png)
 
 - **How replacing 9th grade scores affected Scores by School Type**
-    - Thomas High School with its 1635 students was labeled as being a Medium sized school which is categorized as High Schools with 1000-2000 students. The removal of the 9th grade scores resulted in an increase of the % of scores and overall passing by school size in the Medium Sized category as demonstrated by the image below. 
+    - Thomas High School was categorized as being a charter school under school type. The removal of the 9th grade scores resulted in an increase of the percentages of reading and math scores. The scores by school type of being a charter were initially at % passing math at 90, % passing reading at 93, and       % overall passing at 87. Upon the removal of the 9th grade scores from Thomas High School the % passing math went up to 94, % passing reading increased to 97, and % overall passing increased to 90. The image below shows the updated and improved scores. ![](images/Scores_by_school_charter.png)
     
