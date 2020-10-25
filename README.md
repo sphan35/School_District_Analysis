@@ -23,7 +23,7 @@
     ![](images/school_summary_after_edits.png)
   - **Observations**: Examining the changes in school summary after the exlusion of 9th grade math and reading scores from Thomas Highschool and collecting only the scores from 10th through 12th graders of Thomas High School resulted in the following changes to the data: % Passing Math went from a failing percentage of 66.911315% to 93.185690%, a 26.274375% increase. % Passing Reading was a failing percentage of 69.663609% but changed to a passing percentage of 97.018739%, a 27.35513% increase. Lastly, % Overall Passing went from 65.076453% to 90.630324%, a 25.553871% increase. Replacing 9th graders' math and reading scores for Thomas Highschool resulted in a vast improvement in overall passing percentage as the percent passing in both math and reading scores went up over 20% in both instances. As a result of the immense increase in % Overall Passing from approximately 65% to 90%, Thomas High School relative ranking to the other high schools changed from being in 8th out of 15 highschools to being the 2nd highest % Overall Passing amongst the other high schools.
  
- - **How Math and Reading Scores by grade were affected***
+ - **How replacing 9th grade scores affected Scores by Grade***
     - The beginning steps of the School District Analysis involved setting Thomas High School 9th grade math and reading scores' to "NaNs", which would remove those scores from further calculations. As noted earlier, the overall passing percentage saw a 25% positive increase due to the removal of the 9th graders' math and reading scores. This can be explained by the new total Thomas High School studnet count being reduced to 1174 from the previous 1635, and the passing reading and math scores from 10th through 12th grade being exceptional and taking advantage of the loss of much to be assumed poorer grades from the 9th graders. Listed below are data charts for the Math and Reading scores by grade. Average score calculations for Thomas High School were not affected by the 9th grade scores being voided as it seems those scores weren't taken into account due to the NaNs not being counted.
  
  # **Math Scores by Grade**                 
@@ -31,3 +31,6 @@
  
  # **Reading Scores by Grade**
  ![](images/Reading_scores_by_grade.png)
+ 
+ - **How replacing 9th grade scores affected Scores by School Spending**
+    - Thomas Highschool with its $638 per student budget, landed in the $630-$644 spending bin. The spending bins categorization took into account average math and reading scores, the percentage passing math and reading, and overall passing percentage. With Thomas Highschool % Passing Math increasing from 66.911315% to 93.185690% and % Passing Reading increasing from  69.663609% to a passing percentage of 97.018739%, the overall Passing percentage thus increased exponentially from 65.076453% to 90.630324%. The results of these increased passing percentages reflect in the Scores by school spending image below as the exclusion of the 9th grade scores result in the improvement of the spending scores of $630-$644 spending bin that Thomas High School resides in. ![](images/Scores_and_Spending.png)
