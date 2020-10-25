@@ -5,7 +5,7 @@
   - Providing a clean new written report of the School District data. Through analysis and implenting new code, updates were made to the many data summaries in this project. 
   
 ## Results of the Analysis
-- ***How replacing 9th grade scores affected the District Summary**
+- **How replacing 9th grade scores affected the District Summary**
   - **Before Data Edits**
     - Before cleaning the data, Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and % Overall Passing were as listed below: ![](images/District_Summary_Before_Edits.png)
   - **After Data Edits**
